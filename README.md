@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agrim Kulshreshtha(FinestMosaic69)</h1>
 <h3 align="center">I am a Full Stack Web Developer and I am passionate about delivering visually appealing and user-friendly interfaces while staying up-to-date with the latest technologies. My diverse skill set enables me to develop high-quality and innovative web solutions.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DSA in C++**
 
 - 👨‍💻 Know about my experiences [agrimk.com](agrimk.com)
 
